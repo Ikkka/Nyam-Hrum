@@ -1,0 +1,30 @@
+body {
+    background-image: url(img/fruit-1853466_1920.jpg);
+    background-attachment: fixed;
+    font-family: Gabriola;
+    font-size: 1.5em;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+h1 {
+
+    font-size: 55px;
+    text-align: center;
+    color: brown;
+}
+
+h2 {
+    color: currentColor;
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+a {
+    color: darkslategrey;
+    font-size: 40px;
+}

@@ -1,0 +1,16 @@
+body {
+    background-image: url (img/Green_Abstract_Background_with_Bubbles.jpg);
+    font-style: italic;
+    font-size: xx-large;
+}
+
+h1 {
+    font-family: "Monotype Corsiva";
+    font-size: "1.5em";
+    text-align: center;
+
+}
+
+a {
+    color: chocolate
+}
